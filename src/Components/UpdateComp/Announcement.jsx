@@ -1,5 +1,5 @@
 import React from 'react';
-import announcementImg from '/img/Admin.JPG'; // Make sure this path is correct
+import announcementImg from '/img/adminis.jpg'; // Make sure this path is correct
 
 const Announcement = () => {
   return (
@@ -30,3 +30,4 @@ const Announcement = () => {
 };
 
 export default Announcement;
+
